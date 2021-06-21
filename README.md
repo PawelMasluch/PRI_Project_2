@@ -12,4 +12,4 @@ Solving a system of linear equations via determinants' method in C programming l
 
 I use Laplace expansion to compute determinants.
 
-The project was carried out in the subject of Basics of programming.
+The project was carried out in the subject of Basics of Programming.
