@@ -1,4 +1,4 @@
-# PRI_Project_2
+# PRI_Project_2 (pl)
 
 Copyright (C) Paweł Maśluch, 2021. All rights reserved.
 
@@ -7,6 +7,10 @@ Rozwiązywanie układu równań liniowych za pomocą metody wyznaczników, w ję
 Do obliczania wyznaczników używam rozwinięcia Laplace'a.
 
 Projekt zrealizowano w ramach przedmiotu [PRI] Podstawy programowania.
+
+# PRI_Project_2 (en)
+
+Copyright (C) Paweł Maśluch, 2021. All rights reserved.
 
 Solving a system of linear equations via determinants' method in C programming language (Windows).
 
